@@ -8,3 +8,8 @@
 - Assembly
 - Batch
 - Python
+
+#  Main Programs:
+
+- Calculators
+- Windowed  Aplications
