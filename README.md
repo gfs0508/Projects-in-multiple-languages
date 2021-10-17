@@ -13,3 +13,18 @@
 
 - Calculators
 - Windowed  Aplications
+
+# Code editors used:
+
+> Visual Studio Code
+>
+> Visual Studio 2019 Community
+>
+> IDLE Python 3.9
+# Others programs used:
+
+> [NASM](https://www.nasm.us/) for assembly
+>
+> [Oracle VirtualBox](https://www.virtualbox.org/)
+>
+> [XAMMP](https://www.apachefriends.org/index.html)
