@@ -5,7 +5,7 @@
 ## Editors used:
 - Visual Studio Code
 
-## How to Install:
+## How to Run:
 
 - Windows:
 > On windows need to install python [here](https://www.python.org/downloads/) at the end of the installation open cmd and test
