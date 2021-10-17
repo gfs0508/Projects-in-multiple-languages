@@ -8,6 +8,8 @@
 - Assembly
 - Batch
 - Python
+- HTML
+- CSS
 
 #  Main Programs:
 
