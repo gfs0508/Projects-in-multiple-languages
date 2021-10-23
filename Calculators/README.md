@@ -13,6 +13,10 @@
 > In cmd type cd "directory without quotes"
 > 
 > Write python "program_name.py"
+> 
+> OR
+> 
+> Search for a folder in the Windows 10 start menu
 
 - Mac :
 > On MacOS need to install python [here](https://www.python.org/downloads/macos/) at the end of the installation open terminal test
